@@ -3,7 +3,7 @@
     <h2>Articles</h2>
     <div class="col-md-6 article" v-for="n in 8" v-bind:key="n">
       <img :src="`img/articles/article-${n}.jpg`" alt="">
-      <h2>Lorem ipsum dolor sit amet.</h2>
+      <h4>Lorem ipsum dolor sit amet.</h4>
       <p>Nullam sit amet accumsan lacus. Integer tincidunt, diam at tempus porttitor, lacus diam euismod purus, aliquet
         accumsan massa purus non lectus. Mauris fermentum libero mauris, ac semper ex pellentesque molestie. Quisque ac
         diam fermentum, consequat enim sed, elementum magna. Vestibulum ut tellus id quam malesuada interdum at ut urna.
