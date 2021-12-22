@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.bundle.min'
 import 'bootstrap-icons/font/bootstrap-icons.css'
 import '@fortawesome/fontawesome/styles.css'
 import 'boxicons/css/boxicons.min.css'
